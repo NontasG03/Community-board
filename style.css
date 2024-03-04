@@ -1,0 +1,13 @@
+body {
+    font-family: Verdana;
+    background-color: rgba(236, 229, 220, 0.5);
+    margin: auto;
+    text-align: center;
+    padding: 200px;
+}
+.flexin {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    justify-content: center;
+}
